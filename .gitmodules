@@ -1,6 +1,3 @@
-[submodule "Token-Texter"]
-	path = Token-Texter
-	url = https://github.com/abdullah20401/Token-Texter.git
 [submodule "Telegram-Athan"]
 	path = Telegram-Athan
 	url = https://github.com/abdullah20401/Telegram-Athan.git
